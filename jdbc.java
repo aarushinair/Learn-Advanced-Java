@@ -1,4 +1,4 @@
-package com.jdbc.example;
+package com.CodeWithAarushi.jdbc.example;
 
 import java.sql.*;
 import java.io.*;
