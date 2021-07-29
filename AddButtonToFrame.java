@@ -1,4 +1,4 @@
-package com.awtSwing.example;
+package com.CodeWithAarushi.awtSwing.example;
 
 import java.awt.FlowLayout;
 import javax.swing.*;
