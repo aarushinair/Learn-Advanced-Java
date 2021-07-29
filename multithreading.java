@@ -1,4 +1,4 @@
-package com.multithreading.example ;
+package com.CodeWithAarushi.multithreading.example ;
 
 // Implementing Runnable Interface
 class MyRunnable implements Runnable
