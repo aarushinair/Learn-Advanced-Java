@@ -1,4 +1,4 @@
-package com.collections.example;
+package com.CodeWithAarushi.collections.example;
 
 import java.util.*;
 
