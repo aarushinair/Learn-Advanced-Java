@@ -1,4 +1,4 @@
-# Learn-Advance-Java
+# Learn-Advanced-Java
 Learn advance version of Java specially designed to develop web-based, network-centric or enterprise applications. It includes the concepts like Servlet, JSP, JDBC, RMI, Socket programming, etc.
 
 The 'Advanced Java' comprises of complex advanced programming.
@@ -22,7 +22,13 @@ Java Documentation: https://docs.oracle.com/javase/tutorial/java/index.html
 
 
 
-
+✨ 
+✨
+✨ 
+✨ 
+✨ 
+✨ 
+✨ 
 
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 
