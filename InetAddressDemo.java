@@ -1,4 +1,4 @@
-package com.networking.example;
+package com.CodeWithAarushi.networking.example;
 
 import java.net.*;
 
