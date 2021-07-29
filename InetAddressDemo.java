@@ -1,4 +1,4 @@
-package com.hubberspot.networking.example;
+package com.networking.example;
 
 import java.net.*;
 
@@ -12,13 +12,13 @@ public class InetAddressDemo
      InetAddress address = InetAddress.getLocalHost();
      System.out.println("Local host's address : "
                      + address);
-     address = InetAddress.getByName("www.google.com");
+     address = InetAddress.getByName("www.java.com");
      
-     System.out.println("Google's address : "
+     System.out.println("Java's address : "
                      + address);
 
      InetAddress[] allAddresses = InetAddress
-          .getAllByName("www.google.com");
+          .getAllByName("www.java.com");
      
      for( int i=0 ; i < allAddresses.length ; i++)
        System.out.println("Address " + i+1 + " : "
