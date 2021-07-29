@@ -1,4 +1,4 @@
-package com.servlet.example;
+package com.CodeWithAarushi.servlet.example;
 
 import java.io.*; 
 import javax.servlet.*;
