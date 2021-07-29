@@ -1,4 +1,4 @@
-package com.awtSwing.example;
+package com.CodeWithAarushi.awtSwing.example;
 
 import java.awt.*;
 import java.awt.event.*;
